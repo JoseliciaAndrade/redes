@@ -1,0 +1,6 @@
+Questão 1.1 - $sudo iw dev wls2 add mon0 type monitor ---> criar interface monitor
+              $sudo airodump-ng mon0 ---> desconecta internet do celular
+              $sudo airodump-ng –bssid 00:21:8D:25:1D:09 mon0 -w meuarquivo ---> conectar internet no celular, para tentar capturar as '4 Key message' - handshake
+              $sudo nano meuarquivodesenha.psk ---> Criar arquivo com possíveis senhas
+*Abrir meuarquivo.cap no wireshark para ver se o handshake foi capturado (key 01 de 04…)
+              $sudo aircrack-ng -w meuarquivodesenha.psk 00:21:8D:25:1D:09 meuarquivo.cap ---> descobrir a senha:
