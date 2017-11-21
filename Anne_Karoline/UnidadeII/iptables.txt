@@ -1,0 +1,5 @@
+Questão 1 - Ao adicionar a primeira regra, o outro usuário conseguiu acessar o servidor web do computador local por outros dispositivos. A segunda regra impediu o aceso deste usuário ao servidor local, ao acessar o ip pelo navegardor, a página fica em branco e constante carregamento.
+Questão 2 - O dispositivo, cujo IP foi adicionado, não conseguiu acessar o servidor web, contudo outros dispositivos conseguiam acessar.
+Questão 3 - 
+Questão 4 -
+Questão 5 - O código bloqueou a conexão SSH, impedindo ações remotas do computador para outro.
