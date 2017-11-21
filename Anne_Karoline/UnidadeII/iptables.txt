@@ -1,5 +1,5 @@
 Questão 1 - Ao adicionar a primeira regra, o outro usuário conseguiu acessar o servidor web do computador local por outros dispositivos. A segunda regra impediu o aceso deste usuário ao servidor local, ao acessar o ip pelo navegardor, a página fica em branco e constante carregamento.
 Questão 2 - O dispositivo, cujo IP foi adicionado, não conseguiu acessar o servidor web, contudo outros dispositivos conseguiam acessar.
-Questão 3 - 
-Questão 4 -
+Questão 3 - Como a regra DROP foi utilizada, nenhuma mensagem foi retornada.
+Questão 4 - A principal diferença entre Telnet e SSH é que SSH tem criptografia e Telnet não. SSH também tem uma facilidade de transferência de arquivos , que Telnet não. Usuários Telnet tem que usar um utilitário de transferência de arquivo separado e abrir uma sessão separada para o computador remoto com esse programa , a fim de transferir arquivos de ou para o computador remoto. SSH tem o comando SCP integrado nela , que transfere arquivos entre os computadores locais e remotos. 
 Questão 5 - O código bloqueou a conexão SSH, impedindo ações remotas do computador para outro.
