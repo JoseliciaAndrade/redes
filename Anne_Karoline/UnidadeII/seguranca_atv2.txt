@@ -1,3 +1,3 @@
 Questão 2.1 - O ataque consiste em interceptar o envio e a recepção de dados, invadindo o computador da vímita e lhe enviando pacotes, fazendo esta lhe reconhecer como o gateway. Com isto, o atacaque redireciona os dados, para que estes possam ser lidos e filtrados, sem atrapalhar sua ida ao gateway verdadeiro, dfazendo deste um ataque bastante discreto.
 
-QuestãO 2.2 -
+QuestãO 2.2 -Etherwall é uma ferramenta desenvolvida para impedir que ataques man-in-the-middles sejam realizados através de ataques ARP Spoofing.
