@@ -1,0 +1,20 @@
+Estudante: Anna Pereira Lima Bomfim
+TI: 441
+
+IPTABLES
+
+01) O estudante que está sendo o atacante não consegue acessar a página. Porém, com o uso do comando de Drop foi criado uma regra com o 
+objetivo de impedir o acesso de usuários, nos servidores que foram criados.
+
+02) Com este novo comando podemos especificar qual usuário terá acesso aos seus servidores, assim apenas o escolhido teve acesso.  
+Já no primeiro comando era proibido o acesso de todos os usuários, sem ser possível selecionarmos. Basicamente, a máquina em que o IP 
+foi bloqueado não tem acesso ao servidor, enquanto a outra possui acesso, pois a regra "ACCEPT" é padrão.
+
+03) O comando Telnet apenas exibe a mensagem de Testing...,  para testar a conexão, provando que a mesma é inviável. 
+
+04) As principais diferenças são: Telnet é um protocolo pouco seguro, por isso é utilizado com menos frequência.  Atualmente utilizamos 
+mais o SSH que é outro protocolo muito similar, embora com melhorias de segurança substanciais, como criptografia, já que no Telnet os 
+dados são enviados por meio de texto plano. 
+
+05) O comando utilizado serve para derrubar a conexão SSH existente, ou seja, com a conexão SSH bloqueada não tem como digitar nada no 
+terminal remotamente.
