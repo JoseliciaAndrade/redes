@@ -18,3 +18,4 @@ Atividade do livro.
 6.5 e 6.6
 16- Se ele ficar em uma mesma rede ou subrede, não é necessário que o nó seja móvel. Mas se for mudar de rede, o nó tem que ser móvel. Um nó só é móvel quando muda de rede. Um usuário em sua LAN sempre, não é considerado móvel.
 
+© 2017 GitHub, Inc.
