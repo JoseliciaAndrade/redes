@@ -1,0 +1,29 @@
+Estudante: Anna Pereira Lima Bomfim
+TI: 441
+
+Seção 8.1
+01) A confidencialidade de mensagem é quando somente o remetente deve entender o conteúdo da mensagem transmitida, por isso é necessário 
+que a mensagem seja cifrada. Já a integridade de mensagem é quando mesmo que o remetente e o destinatário consigam se autenticar entre si 
+eles também querem se assegurar de que o conteúdo não seja alterado. Não é possível ter confidencialidade sem integridade, pois a definição
+de confidencialidade remete a uma ideia de que a mensagem pode ser alterada, excluída e vista somente pelo remetente e o destinatário.
+
+02) O computador,  o roteador, o servidor, o modem, sistemas e o usuário.
+
+Seção 8.3
+18) O computador do usuário que está sendo atacado entende que a máquina do atacante  é o endereço de destino, assim as informações 
+capturadas são guardadas em um arquivo chamado de sslstrip, que através de uma pesquisa é possível encontrar os dados que foram digitados 
+pela vitima. O nome do ataque é conhecido como man-in-the-middle (homem no meio), pois o atacante intercepta os dados, ficando no meio da 
+comunicação. O ataque pode ocorrer com chaves púbicas, pois o atacante consegue repassar tudo que recebe dos dois dispositivos, normalmente.
+Porém, através de diferentes algoritmos de criptografia é possível garantir a confidencialidade e integridade dos dados em questão.
+
+Seção 8.4
+21) No SSL, os números de sequencia são usados para defesa de repetições de pacotes, e os nonces são utilizados com o fim de proteger o 
+"ataque de conexão".
+
+Capitulo 8 – Questões dissertativas. 
+01) O intruso consegue criar páginas falsas e forçando seu acesso, pois com o controle do DNS temos a opção de redirecionar os usuários 
+para onde for escolhido. Com a utilização dessas páginas falsas é realizados crimes, como clonagem de dados.
+
+03) IPSec é um conjunto de padrões que são utilizados para que seja possível garantir uma comunicação.
+
+04) Vários protocolos podem ser utilizados para a efetivação da comunicação em Botnets, os mais conhecidos é o OInternet Relay (IRC).
