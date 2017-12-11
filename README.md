@@ -10,8 +10,11 @@ Unidade I:
 ~~**Atividade 05 - mininet-wifi.pdf (entrega 17/10)**~~    
 
 Unidade II:  
-~~**Atividade 01**: seguranca.pdf (entrega 07/11)~~   
-**Atividade 02**: iptables.pdf (entrega 14/11)       
-**Atividade 03**: [entrega 27/11](https://docs.google.com/document/d/1xe6vS1ycrG_7oB387UBSieEV1IM4rmJ3y-2LLoqVETA/edit?usp=sharing)   
-**Atividade 04**: [entrega 04/12](https://docs.google.com/document/d/1nFtiDi5LLqbWEwXIYidyaJWnokJAvi8u3b40WqSy9TY/edit?usp=sharing)           
-**Atividade 05**: [squid: entrega 05/12](https://docs.google.com/document/d/12rtk0ikzmJtyF8vwa4SdRlX2aN2v7p339_NsKr6U6_I/edit?usp=sharing)  
+~~**Atividade 01**: seguranca.pdf (entrega 07/11)~~      
+~~**Atividade 02**: iptables.pdf (entrega 14/11)~~         
+~~**Atividade 03**: [entrega 27/11](https://docs.google.com/document/d/1xe6vS1ycrG_7oB387UBSieEV1IM4rmJ3y-2LLoqVETA/edit?usp=sharing)~~      
+~~**Atividade 04**: [entrega 04/12](https://docs.google.com/document/d/1nFtiDi5LLqbWEwXIYidyaJWnokJAvi8u3b40WqSy9TY/edit?usp=sharing)~~           
+~~**Atividade 05**: [squid: entrega 05/12](https://docs.google.com/document/d/12rtk0ikzmJtyF8vwa4SdRlX2aN2v7p339_NsKr6U6_I/edit?usp=sharing)~~      
+
+Unidade III:   
+**Atividade 01**: [DNS: entrega 05/12](https://docs.google.com/document/d/1rE92t4bpic6nIJVvqNJPWPZmOo5fue0fJ4_gWKyqmsQ/edit?usp=sharing)  
