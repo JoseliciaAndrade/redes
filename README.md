@@ -17,4 +17,8 @@ Unidade II:
 ~~**Atividade 05**: [squid: entrega 05/12](https://docs.google.com/document/d/12rtk0ikzmJtyF8vwa4SdRlX2aN2v7p339_NsKr6U6_I/edit?usp=sharing)~~      
 
 Unidade III:   
-**Atividade 01**: [DNS: entrega 05/12](https://docs.google.com/document/d/1rE92t4bpic6nIJVvqNJPWPZmOo5fue0fJ4_gWKyqmsQ/edit?usp=sharing)  
+**Atividade 01**: [DNS: entrega 05/12](https://docs.google.com/document/d/1rE92t4bpic6nIJVvqNJPWPZmOo5fue0fJ4_gWKyqmsQ/edit?usp=sharing)     
+
+
+Video Ilustrativo sobre o Github:  
+[acessar](https://www.youtube.com/watch?v=zg8JcK1dgMI)  
