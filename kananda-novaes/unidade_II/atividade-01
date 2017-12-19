@@ -1,0 +1,11 @@
+Questão 1.1 - Criou-se uma interface do tipo monitor (mon0), para que pudesse ser realizado a captura Executa-se o comando $ sudo airodump-ng mon0 para capturar os dispositovs conectados na rede que o computador está conectado. Depois que o MAC do celular foi identificado, desconectou o aparelho da rede wifi e desabilitou o airodump-ng para não continuar capturando já que o objetivo era o MAC do celular. Após, executou-se o comando $sudo airodump-ng --bssid 00:21:8D:25:1D:09 mon0 -w print, conectou-se o celular novamente, após o MAC ser capturado, parou-se a execução do airodump  e criou-se um arquivo chamado senha.psk contendo: "12345678
+87654321
+abcdefgh
+lab02info "
+Após, executou-se o comando $sudo aircrack-ng -w senha.psk -b 00:21:8D:25:1D:09 print.cap.
+
+Questão 1.2 - O 4-way handshake é a passagem de 4 mensagens para autentificação da rede. Porém, foi possível capturar apenas 2 dessas mensagens por falha na troca de mensagens.
+
+Questão 1.3 - Iniciaria o airmon-ng, abriria as configurações da interface (ifconfig) e executaria o comando para derrubar a rede wireless (down iwconfig).
+
+Questão 1.4 - Utilizar uma senha com alto nível de segurança (com letras, números, maísculas, minúsculas, etc).
