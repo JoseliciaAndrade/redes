@@ -1,0 +1,26 @@
+Consulte o livro de Kurose para responder às questões 1, 2 (seção 8.1), 18 (seção 8.3), 21
+(seção 8.4).Questões dissertativas 1, 3  e  4  do capítulo 8.
+
+Livro(pdf)
+493(519)
+504(530)
+519(542)
+Atividade - 545(571)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Seção 8.1
+Questão 01 - A propriedade da confidencialidade é definida como apenas o remetente e o destinatório devem ter acesso ao conteúdo da mensagem e esta deve ser criptografada para que caso haja algum interceptador, este não consiga ler o conteúdo da mensagem.
+Já a propriedade de integridade da mensagem assegura que o conteúdo da mensagem não seja alterado durante  a transmissão desta. Uma não é possivel sem a outra, pois a confidencialidade seria quebrada caso fosse possível alterar o conteúdo da mensagem durante a transmissão e a integridade não conseguiria se manter, caso o conteúdo não fosse criptrografado já que seria fácil para um interceptador utilizar meios de interceptar a mensagem e nenhum problema em altera-la caso tenha ciência do conteúdo da mensagem.
+Questão 02 - 
+
+Seção 8.3 
+Questão 18 - O ataque do homem do meio é um tipo de ataque no qual o atacante intercepta os dados trocados entre duas partes. Este ataque não pode ocorrer quando usadas chaves simétricas, pois, apenas as duas partes (ou mais) podem criptografar e descriptografar as mensagens, portanto o atacante não conseguiria descriptografar os dados.
+
+Seção 8.4
+Questão 21 - 
+
+Questões dissertativas
+Questão 01 - 
+Questão 03 - 
+Questão 04 - 
