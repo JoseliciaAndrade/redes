@@ -1,0 +1,9 @@
+Questão 01 - Utilizando comando Accept e o Apache, permite-se que outra pessoa tenha acesso a máquina a partir do IP desta pelo navegador, ou seja, transforma a máquina é ums servidor. Porém, ao utilizar a regra drop, o servidor se torna inacessivel, pois o pacote não é mais permitido.
+
+Questão 02 - Ao inserir a nova regra, o IP inserido é bloqueado, portanto não consegue acessar a máquina, enquanto o outro colega, que o IP não foi bloqueado, consegue acessar o servidor.
+
+Questão 03 - O telnet verifica se uma porta está aberta ou não. Ao utiliza-lo não aconteceu nada, pois, a porta não está aberta.
+
+Questão 04 - Telnet e SSH são emuladores de terminais. A principal diferença entre eles é que o Telnet envia detalhadamente os dados da conta do usuário pela rede ou internet como texto simples, o que o torna inseguro, já o SSH tem a mesma função, porém, os dados são criptografados, o que o torna mais seguro.
+
+Questão 05 - Este comando fez com que a conexão SSH caisse, acabando com a conexão remota.
