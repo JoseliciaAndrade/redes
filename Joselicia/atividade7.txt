@@ -1,0 +1,16 @@
+Atividade7
+
+
+1) R= Após ter realizado os processos exigidos, ao tentar me conectar, não foi possível porque o acesso estava bloqueado.
+
+
+2) R= O Telnet bloqueou a minha porta. O Telnet informa com uma mensagem.
+
+
+3) R= Acessei uma outra máquina no lab e a máquina acessou a minha máquina com o acesso remoto.
+
+
+4) R= O Telnet é um programa que, para um usuário acessar o poder de processamento do computador remoto, o programa Telnet precisa enviar os detalhes da conta do usuário através da rede, ou na Internet. O Telnet também não tem quaisquer procedimentos de criptografia, e assim, esses dados sensíveis são enviados como texto simples. Já o SSH executa as mesmas funções que o Telnet, mas ele criptografa todas as suas comunicações entre o computador local e o computador remoto, apesar da sua vantagem de segurança sobre Telnet.
+
+
+5) R= Travou a conexão da outra máquina do lab.
