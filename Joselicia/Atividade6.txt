@@ -1,0 +1,26 @@
+Questão 6
+
+Q 1.1
+
+ R= Consegui identificar o endereço de mac da máquina ao lado, o sinal, arquivos com a interface,       achar senhas de fáceis níveis de acesso quebrando suas chaves.
+
+Q1.2
+
+ R= Mensagens recebidas são como desafios de um ap até o aparelho desejado. As mensagens são enviadas através de códigos, mas a senha é preservada.
+
+Q1.3
+ 
+R= Através do aireplay-ng e depois executar este comando; - -deauth count : desautenticar 1 ou todas as estações (-0).
+
+Q1.4
+ 
+R= Uma das variadas formas é usar senhas que não são fracas com caracteres alternados, diferentes e que possuem a numeração depois do número 8 com caracteres que variam de maiúsculo para minúsculos.
+
+
+Q2.1
+
+R= O processo realizado faz com que eu ataque a máquina ou aparelho que eu quiser usar de uma forma hacker, mas também a minha máquina ou aparelho se torna vitima dando a liberdade deste também me raquear sabendo minha senha e eu a dele.
+
+
+Q2.2) 
+R=Com certeza existem muitas maneiras de evitar um tipo de ataque de hackers, porém uma forma simples seria fazer o download de um aplicativo que bloqueasse qualquer ip que não tivesse autorização.   
