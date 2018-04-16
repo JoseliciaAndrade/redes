@@ -1,0 +1,23 @@
+Respostas da Atividade 01
+
+1. pwd home/alunos
+2. mkdir my_test cd test mkdir my_work
+   mkdir job1
+   cd job1 mkdir task
+3. cd my_work
+4. nano numbers.txt
+   10
+   100
+   50
+   25
+   1
+   2
+   Ctrl+o para salvar
+5. mv numbers.txt numbers1.txt numbers2.txt
+6. cp /numbers.txt/numbers1.txt/numbers2.txt /task1
+7. cd task1 ls -la
+10. cp task1 /home/alunos
+11. mv my_work my_work1
+12. rm -r task1
+13. ls /bin add listabin.txt
+14. cd..
